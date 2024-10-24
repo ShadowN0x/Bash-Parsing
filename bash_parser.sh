@@ -1,7 +1,7 @@
 #!/bin/bash
 # Bash Parser - Take a list of given URLs, perform a WPscan on each, and store the output into separate files for later review.
-# Pull banner art to display
 
+# Banner Art
 banner="
  ▄▄▄▄    ▄▄▄        ██████  ██░ ██     ██▓███   ▄▄▄       ██▀███    ██████ ▓█████  ██▀███
 ▓█████▄ ▒████▄    ▒██    ▒ ▓██░ ██▒   ▓██░  ██▒▒████▄    ▓██ ▒ ██▒▒██    ▒ ▓█   ▀ ▓██ ▒ ██▒
